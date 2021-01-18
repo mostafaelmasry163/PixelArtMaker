@@ -7,19 +7,25 @@ Udacity - Front-End Web Developer Nanodegree project. In this project were given
 ![PixelArtMaker-/blob](https://github.com/mostafaelmasry163/PixelArtMaker-/blob/master/pixel%20art%20maker%20perview.png)
 
 
-## Getting Started	## Getting Started
+## Getting Started
 
 
-##### Live	##### Live
-**Go to** 	**Go to** 
-##### Locally	##### Locally
-**1.** Clone this repo:	**1.** Clone this repo:
-Clone the repo using Git:	Clone the repo using Git:
-```	```
-git clone 	git clone 
-```	```
-**2.** Open the application:	**2.** Open the application:
-Users should be able to:	Users should be able to:
-1. Dynamically set the size of the table as an H by W grid.	1. Dynamically set the size of the table as an H by W grid.
-2. Choose a color.	2. Choose a color.
-3. Click a cell in the grid to fill that cell with the chosen color.	3. Click a cell in the grid to fill that cell with the chosen color.
+##### Live	
+**Go to** https://mostafaelmasry163.github.io/PixelArtMaker-/blob
+##### Locally	
+
+**1.** Clone this repo:	
+
+Clone the repo using Git: 
+
+```
+	git clone https://github.com/mostafaelmasry163/PixelArtMaker-/blob.git
+```
+
+**2.** Open the application:	
+
+Users should be able to:	
+
+1. Dynamically set the size of the table as an H by W grid.	
+2. Choose a color.
+3. Click a cell in the grid to fill that cell with the chosen color.	
