@@ -11,7 +11,7 @@ Udacity - Front-End Web Developer Nanodegree project. In this project were given
 
 
 ##### Live	
-**Go to** https://mostafaelmasry163.github.io/PixelArtMaker-/blob
+**Go to** https://mostafaelmasry163.github.io/PixelArtMaker-
 ##### Locally	
 
 **1.** Clone this repo:	
@@ -19,7 +19,7 @@ Udacity - Front-End Web Developer Nanodegree project. In this project were given
 Clone the repo using Git: 
 
 ```
-	git clone https://github.com/mostafaelmasry163/PixelArtMaker-/blob.git
+	git clone https://github.com/mostafaelmasry163/PixelArtMaker-.git
 ```
 
 **2.** Open the application:	
